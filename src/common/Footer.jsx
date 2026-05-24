@@ -164,16 +164,16 @@ const Footer = () => {
         "Healthcare Voice AI",
       ],
     },
-    {
-      title: "Developers",
-      links: [
-        "Documentation",
-        "API Reference",
-        "SDKs",
-        "Open Source",
-        "Community",
-      ],
-    },
+    // {
+    //   title: "Developers",
+    //   links: [
+    //     "Documentation",
+    //     "API Reference",
+    //     "SDKs",
+    //     "Open Source",
+    //     "Community",
+    //   ],
+    // },
     {
       title: "Resources",
       links: [
